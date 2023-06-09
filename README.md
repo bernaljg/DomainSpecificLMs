@@ -240,9 +240,6 @@ Singhal, K. et al. [[abs](https://arxiv.org/abs/2212.13138)], 2022
 
 ### 2.1 Black-Box Retrieval Augmentation
 
-**CooK: Empowering General-Purpose Language Models with Modular and Collaborative Knowledge.**
-*Feng, Shangbin et al.* [[abs](https://arxiv.org/abs/2305.09955)], 2023
-
 **REPLUG: Retrieval-Augmented Black-Box Language Models.**
 *Shi, Weijia et al.* [[abs](https://arxiv.org/abs/2301.12652)], 2023
 
@@ -264,9 +261,11 @@ Singhal, K. et al. [[abs](https://arxiv.org/abs/2212.13138)], 2022
 **Branch-Train-Merge: Embarrassingly Parallel Training of Expert Language Models.**
 *Li, Margaret et al.* [[abs](https://arxiv.org/abs/2208.03306)], 2022
 
+**CooK: Empowering General-Purpose Language Models with Modular and Collaborative Knowledge.**
+*Feng, Shangbin et al.* [[abs](https://arxiv.org/abs/2305.09955)], 2023
+
 **Scaling Expert Language Models with Unsupervised Domain Discovery.**
 *Gururangan, Suchin et al.* [[abs](https://arxiv.org/abs/2303.14177)], 2023
-
 
 
 ## 3. Miscellaneous
