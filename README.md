@@ -220,7 +220,7 @@ Singhal, K. et al. [[abs](https://arxiv.org/abs/2212.13138)], 2022
 *Ma, Yixiao et al.* [[abs](https://arxiv.org/abs/2305.05393)], 2023
 
 **KALA: Knowledge-Augmented Language Model Adaptation.**
-*Kang, Minki et al.* [[conference](https://www.aclweb.org/anthology/2022.naacl-main.68/)], 2022
+*Kang, Minki et al.* [[conference](https://aclanthology.org/2022.naacl-main.379/)], 2022
 
 **Patton: Language Model Pretraining on Text-Rich Networks.**
 *Jin Bowen et al.* [[abs](https://arxiv.org/pdf/2305.12268.pdf)], 2023
