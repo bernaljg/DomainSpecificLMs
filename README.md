@@ -12,7 +12,7 @@ A compilation of papers related to domain specific language model training and e
 * [2. Using Domain-Knowledge in Large Language Models](#2-using-domain-knowledge-in-large-language-models)
   * [2.1 Black-Box Retrieval Augmentation](#21-black-box-retrieval-augmentation)
   * [2.2 Retrieval Based Pre-Training](#22-retrieval-based-pre-training)
-  * [2.3 Generalist & Domain-Specific Ensembles](#23-generalist&domain-specific-ensembles)
+  * [2.3 Generalist and Domain-Specific Ensembles](#23-generalist-and-domain-specific-ensembles)
 * [3. Miscellaneous](#3-miscellaneous)
 
 ## 0. Surveys
@@ -258,7 +258,7 @@ Singhal, K. et al. [[abs](https://arxiv.org/abs/2212.13138)], 2022
 
 
 
-### 2.3 Generalist & Domain-Specific Ensembles
+### 2.3 Generalist and Domain-Specific Ensembles
 
 **Branch-Train-Merge: Embarrassingly Parallel Training of Expert Language Models.**
 *Li, Margaret et al.* [[abs](https://arxiv.org/abs/2208.03306)], 2022
