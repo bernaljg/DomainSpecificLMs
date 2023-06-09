@@ -12,7 +12,7 @@ A compilation of papers related to domain specific language model training and e
 * [2. Using Domain-Knowledge in Large Language Models](#2-using-domain-knowledge-in-large-language-models)
   * [2.1 Black-Box Retrieval Augmentation](#21-black-box-retrieval-augmentation)
   * [2.2 Retrieval Based Pre-Training](#22-retrieval-based-pre-training)
-  * [2.3 Generalist & Domain-Specific Ensembles](#23-generalist-&-domain-specific-ensembles)
+  * [2.3 Generalist & Domain-Specific Ensembles](#23-generalist&domain-specific-ensembles)
 * [3. Miscellaneous](#3-miscellaneous)
 
 ## 0. Surveys
