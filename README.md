@@ -6,9 +6,9 @@ A compilation of papers related to domain specific language model training and e
   * [1.1 Pre-Training from Scratch](#11-pre-training-from-scratch)
   * [1.2 Further Pre-Training](#12-further-pre-training)
   * [1.3 Mixed Pre-Training](#13-mixed-pre-training)
-  * [1.4 Domain-Specific Fine-Tuning](#14-domain-specific-fine-tuning)
+  * [1.4 Fine-Tuning](#14-fine-tuning)
   * [1.5 Domain-Specific Pre-Training Objectives](#15-domain-specific-pre-training-objectives)
-  * [1.6 Domain-Specific Tool Use](#16-domain-specific-tool-use)
+  * [1.6 Tool Use](#16-tool-use)
 * [2. Using Domain-Knowledge in Large Language Models](#2-using-domain-knowledge-in-large-language-models)
   * [2.1 Black-Box Retrieval Augmentation](#21-black-box-retrieval-augmentation)
   * [2.2 Retrieval Based Pre-Training](#22-retrieval-based-pre-training)
@@ -159,7 +159,7 @@ A compilation of papers related to domain specific language model training and e
 
 
 
-### 1.4 Domain-Specific Fine-Tuning
+### 1.4 Fine-Tuning
 
 **Large Language Models Encode Clinical Knowledge.**
 Singhal, K. et al. [[abs](https://arxiv.org/abs/2212.13138)], 2022
@@ -226,7 +226,7 @@ Singhal, K. et al. [[abs](https://arxiv.org/abs/2212.13138)], 2022
 *Jin Bowen et al.* [[abs](https://arxiv.org/pdf/2305.12268.pdf)], 2023
 
 
-### 1.6 Domain-Specific Tool Use
+### 1.6 Tool Use
 
 **GeneGPT: Augmenting Large Language Models with Domain Tools for Improved Access to Biomedical Information.**
 *Jin, Qiao et al.* [[arXiv](https://arxiv.org/abs/)], 2023
