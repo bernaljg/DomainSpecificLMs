@@ -248,7 +248,8 @@ Singhal, K. et al. [[abs](https://arxiv.org/abs/2212.13138)], 2022
 **REPLUG: Retrieval-Augmented Black-Box Language Models.**
 *Shi, Weijia et al.* [[abs](https://arxiv.org/abs/2301.12652)], 2023
 
-
+**WHEN GIANT LANGUAGE BRAINS JUST AREN’T ENOUGH! DOMAIN PIZZAZZ WITH KNOWLEDGE SPARKLE DUST.**
+*Nguyen, Minh-Tien et al.* [[abs](https://arxiv.org/pdf/2305.07230.pdf)], 2023
 
 ### 2.2 Retrieval-Based Pre-Training
 
