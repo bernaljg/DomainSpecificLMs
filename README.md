@@ -43,6 +43,9 @@ A compilation of papers related to domain specific language model training and e
 **Adapting a Language Model While Preserving its General Knowledge.**
 *Ke, Zixuan et al.*  [[abs](https://aclanthology.org/2022.emnlp-main.693.pdf)] Conference on Empirical Methods in Natural Language Processing, 2023.
 
+**Large language models in biomedical natural language processing: benchmarks, baselines, and recommendations.**
+*Chen, Qingyu et al.* [[abs](https://arxiv.org/abs/2305.16326)], 2023
+
 
 ## 1. Domain Specific Pre-Training
 
