@@ -7,7 +7,7 @@ A compilation of papers related to domain specific language model training and e
   * [1.2 Further Pre-Training](#12-further-pre-training)
   * [1.3 Mixed Pre-Training](#13-mixed-pre-training)
   * [1.4 Fine-Tuning](#14-fine-tuning)
-  * [1.5 Beyond MLM](#15-beyond-mlm)
+  * [1.5 Beyond Language Modeling](#15-beyond-language-modeling)
 * [2. Using Domain-Knowledge in Large Language Models](#2-using-domain-knowledge-in-large-language-models)
   * [2.1 Black-Box Retrieval Augmentation](#21-black-box-retrieval-augmentation)
   * [2.2 Retrieval Based Pre-Training](#22-retrieval-based-pre-training)
