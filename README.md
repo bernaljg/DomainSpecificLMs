@@ -195,7 +195,7 @@ Singhal, K. et al. [[abs](https://arxiv.org/abs/2212.13138)], 2022
 
 
 
-### 1.5 Beyond MLM
+### 1.5 Beyond Language Modeling
 
 **LinkBERT: Pretraining Language Models with Document Links.**
 *Yasunaga, Michihiro et al.* [[abs](https://arxiv.org/abs/2203.15827)], 2022
